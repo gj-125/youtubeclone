@@ -1,0 +1,10 @@
+{
+  "name": "webtube",
+  "version": "1.0.0",
+  "description": "cloneing youtube with vanilla and nodejs",
+  "main": "index.js",
+  "author": "heocoder",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
